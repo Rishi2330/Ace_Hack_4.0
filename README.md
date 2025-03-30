@@ -152,7 +152,7 @@ Here is the video in Hindi - [Decentralize Google Drive](https://youtu.be/fghqq3
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/decentralized-image-upload.git
+   git clone https://github.com/rishi2330/decentralized-image-upload.git
    ```
 2. Install dependencies for the hardhat:
 
